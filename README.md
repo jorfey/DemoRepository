@@ -1,2 +1,0 @@
-# DemoRepository
-My Hippo Repo
